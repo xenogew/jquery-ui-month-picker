@@ -87,9 +87,9 @@ and removes the pointer cursor from the buttons in the heading (year-table).
 .month-picker-year-table .ui-button {
     font-size: 1.1em;
     width: 1.5em;
-    height: 1.5em;
     cursor: default;
     margin: 0;
+    background: none;
 }
 
 .month-picker-year-table .month-picker-title {
